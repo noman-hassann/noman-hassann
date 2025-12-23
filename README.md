@@ -3,7 +3,7 @@
 Senior Software Engineer with **5+ years of experience** building scalable  
 **Mobile, Backend, and AI-driven solutions**.
 
-I specialize in **.NET backend systems**,**Flutter mobile apps**, and  
+I specialize in **.NET backend systems**, **Flutter mobile apps**, and  
 **AI automation & LLM-based workflows**, delivering production-ready software  
 with clean architecture and real-world impact.
 
@@ -13,6 +13,7 @@ with clean architecture and real-world impact.
 ---
 
 ## 🚀 Tech Stack
+
 ### 🖥 Backend
 - .NET / .NET Core / ASP.NET
 - C#, SQL Server, EF Core
@@ -42,4 +43,9 @@ Git • GitHub • Jira • CI/CD • Docker • Postman • Agile/Scrum
 
 ---
 
-📫 **Let’s build reliable software together**
+## 📫 Contact
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/60177140537)  
+📧 **Email:** hassannoman6803@gmail.com  
+
+
+**Let’s build reliable software together**
