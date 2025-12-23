@@ -3,7 +3,7 @@
 Senior Software Engineer with **5+ years of experience** building scalable  
 **Mobile, Backend, and AI-driven solutions**.
 
-I specialize in **Flutter mobile apps**, **.NET backend systems**, and  
+I specialize in **.NET backend systems**,**Flutter mobile apps**, and  
 **AI automation & LLM-based workflows**, delivering production-ready software  
 with clean architecture and real-world impact.
 
@@ -13,12 +13,6 @@ with clean architecture and real-world impact.
 ---
 
 ## 🚀 Tech Stack
-
-### 📱 Mobile
-- Flutter (Android • iOS • Web)
-- Dart, Kotlin, Swift
-- REST APIs, Firebase, CI/CD
-
 ### 🖥 Backend
 - .NET / .NET Core / ASP.NET
 - C#, SQL Server, EF Core
@@ -28,6 +22,11 @@ with clean architecture and real-world impact.
 - Python, LLMs, RAG
 - AI Automation (n8n)
 - Docker, ML basics, Prompt Engineering
+
+### 📱 Mobile
+- Flutter (Android • iOS • Web)
+- Dart, Kotlin, Swift
+- REST APIs, Firebase, CI/CD
 
 ---
 
