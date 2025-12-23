@@ -32,4 +32,15 @@ with clean architecture and real-world impact.
 ---
 
 ## 🛠 Tools & Practices
-Git • GitHub • Jira • CI/CD • Docker • Postman • Agile/
+Git • GitHub • Jira • CI/CD • Docker • Postman • Agile/Scrum
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noman-hassann&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman-hassann&layout=compact&theme=dark)
+
+---
+
+📫 **Let’s build reliable software together**
