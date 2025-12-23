@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Hassan
 
-<!--
-**noman-hassann/noman-hassann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 Passionate **Flutter Developer** with 5+ years of experience building  
+high-quality **cross-platform mobile applications**.
 
-Here are some ideas to get you started:
+🔥 Senior Mobile Application Developer  
+🌍 Open to **Remote Opportunities**  
+📱 Flutter | ASP.Net | AI Automation | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noman-hassann&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman-hassann&layout=compact&theme=dark)
