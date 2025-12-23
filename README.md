@@ -1,26 +1,35 @@
-# Hi there 👋 I'm Hassan
+# Hi 👋 I'm Hassan Noman
 
-💙 Passionate **Flutter Developer** with 5+ years of experience building  
-high-quality **cross-platform mobile applications**.
+Senior Software Engineer with **5+ years of experience** building scalable  
+**Mobile, Backend, and AI-driven solutions**.
 
-🔥 Senior Mobile Application Developer  
-🌍 Open to **Remote Opportunities**  
-📱 Flutter | ASP.Net | AI Automation | Full Stack Developer
+I specialize in **Flutter mobile apps**, **.NET backend systems**, and  
+**AI automation & LLM-based workflows**, delivering production-ready software  
+with clean architecture and real-world impact.
 
----
-
-## ⚡ Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+🔹 Mobile • Backend • AI Automation  
+🔹 Open to **Remote / Contract Opportunities**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noman-hassann&show_icons=true&theme=dark)
+### 📱 Mobile
+- Flutter (Android • iOS • Web)
+- Dart, Kotlin, Swift
+- REST APIs, Firebase, CI/CD
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman-hassann&layout=compact&theme=dark)
+### 🖥 Backend
+- .NET / .NET Core / ASP.NET
+- C#, SQL Server, EF Core
+- Clean Architecture, REST APIs
+
+### 🤖 AI & Automation
+- Python, LLMs, RAG
+- AI Automation (n8n)
+- Docker, ML basics, Prompt Engineering
+
+---
+
+## 🛠 Tools & Practices
+Git • GitHub • Jira • CI/CD • Docker • Postman • Agile/
